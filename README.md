@@ -4,12 +4,12 @@ Automatic Boomer rallies for **DarkWar** (PC).
 Автоматические ралли на Бумеров для **DarkWar** (ПК).
 
 ## ⬇ Download / Скачать
-**[Latest version → RallyBot.exe](../../releases/latest)**
+**[Latest version → RallyBot-Setup.exe](../../releases/latest)**
 
-1. Download `RallyBot.exe` and put it in its own folder.
-   Скачайте `RallyBot.exe` и положите в отдельную папку.
-2. Run it. If Windows shows "Windows protected your PC": **More info → Run anyway**.
-   Запустите. Если Windows покажет «Система Windows защитила ваш компьютер»: **Подробнее → Выполнить в любом случае**.
+1. Download `RallyBot-Setup.exe` and run it: RallyBot is installed with Start menu and desktop shortcuts.
+   Скачайте `RallyBot-Setup.exe` и запустите: RallyBot установится с ярлыками в «Пуске» и на рабочем столе.
+2. If Windows shows "Windows protected your PC": **More info → Run anyway**.
+   Если Windows покажет «Система Windows защитила ваш компьютер»: **Подробнее → Выполнить в любом случае**.
 3. RallyBot updates itself: it checks for a new version on start.
    RallyBot обновляется сам: при запуске проверяет новую версию.
 
