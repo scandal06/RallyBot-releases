@@ -1,7 +1,7 @@
 {
- "version": "0.9.11",
- "tag": "v0.9.11",
- "url": "https://github.com/scandal06/RallyBot-releases/releases/download/v0.9.11/RallyBot.exe",
- "size": 67556681,
- "notes": "### Fixes\n**Improved**\n- Wolfiez Mode tints the whole main page in its purple-pink colours, smoothly\n- Boomer level: only the difference is tapped; from the bottom only after a pause, a failed rally or every 10 rallies\n**Fixed**\n- The “Sure to spend N Rubies?” question after a ruby purchase is confirmed\n- The ×20 buttons (bags and rubies) and the ruby purchase are recognised reliably again (new pictures of the buttons)\n- Rally settings opened again (“Back” from the Wolfiez info) show the Wolfiez note and lock the counter\n- Panels no longer flash empty or doubled when one opens right after another\n\n### Исправления\n**Улучшено**\n- Wolfiez Mode плавно окрашивает всю главную в свои фиолетово-розовые цвета\n- Уровень Бумера: нажимается только разница; с нуля — только после паузы, неудачного ралли или раз в 10 ралли\n**Исправлено**\n- Вопрос «Sure to spend N Rubies?» после покупки за рубины подтверждается\n- Кнопки ×20 (мешочки и рубины) и покупка за рубины снова надёжно распознаются (новые картинки кнопок)\n- Настройки ралли, открытые повторно («Назад» из описания Wolfiez), показывают плашку Wolfiez и блокируют счётчик\n- Окна больше не мелькают пустыми или двойными, когда одно открывается сразу после другого\n\n"
+ "version": "0.9.12",
+ "tag": "v0.9.12",
+ "url": "https://github.com/scandal06/RallyBot-releases/releases/download/v0.9.12/RallyBot.exe",
+ "size": 67559715,
+ "notes": "### In style\n**Improved**\n- Questions before spending rubies and before clearing the history open in RallyBot's own window instead of a plain Windows box\n**Fixed**\n- After using ×20 bags the March window stays open (the bot no longer taps the map to close an energy window the game already closed)\n- A full ring has no seam where its end meets its start\n\n### В едином стиле\n**Улучшено**\n- Вопросы перед тратой рубинов и перед очисткой истории открываются в окне RallyBot, а не в стандартном окне Windows\n**Исправлено**\n- После ×20 мешочков окно марша остаётся открытым (бот больше не тапает по карте, закрывая окно энергии, которое игра уже закрыла)\n- У заполненного кольца больше нет стыка там, где конец встречается с началом\n\n"
 }
