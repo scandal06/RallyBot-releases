@@ -1,7 +1,7 @@
 {
- "version": "0.9.3",
- "tag": "v0.9.3",
- "url": "https://github.com/scandal06/RallyBot-releases/releases/download/v0.9.3/RallyBot.exe",
- "size": 67431358,
- "notes": "### Smoother activation\n**Improved**\n- RallyBot looks for updates every 3 hours while it's open; a failed check shows the reason\n- The update offer waits until the agreement and activation are done\n- New installer artwork\n**Fixed**\n- The activation window now closes after a valid key (it could stay open when an update was offered at the same time)\n- Ctrl+V, Ctrl+C, Ctrl+X and Ctrl+A work with any keyboard layout, not only English\n- Updates now reach PCs where checking failed silently: a built-in certificate bundle, a longer wait for slow connections and automatic retries\n\n### Удобная активация\n**Улучшено**\n- Пока RallyBot открыт, он проверяет обновления каждые 3 часа; при ошибке показывает причину\n- Предложение обновиться ждёт, пока вы примете соглашение и активируете ключ\n- Новая картинка в установщике\n**Исправлено**\n- Окно активации закрывается после верного ключа (оно могло зависнуть, если одновременно предлагалось обновление)\n- Ctrl+V, Ctrl+C, Ctrl+X и Ctrl+A работают при любой раскладке, не только английской\n- Обновления доходят до ПК, где проверка молча не срабатывала: встроенные сертификаты, дольше ожидание на медленном интернете и автоматические повторы\n\n"
+ "version": "0.9.4",
+ "tag": "v0.9.4",
+ "url": "https://github.com/scandal06/RallyBot-releases/releases/download/v0.9.4/RallyBot.exe",
+ "size": 67434646,
+ "notes": "### Polish\n**New**\n- Unlimited rallies are a separate switch now\n- Wolfiez Mode = unlimited rallies + bags and rubies ×20 at once, without the ruby limit; the ? next to it explains it\n- If the game runs in the launcher but the Emulator mode is chosen (or the other way round), RallyBot notices it and offers to switch with one click\n**Improved**\n- A short hint for the PC client mode, like the one for the emulator\n**Fixed**\n- Settings: the PC client tile no longer touches the edge of its card\n\n### Доводка\n**Новое**\n- Безлимитные ралли теперь отдельный переключатель\n- Wolfiez Mode = безлимитные ралли + мешочки и рубины сразу по ×20, без лимита рубинов; кнопка ? рядом с ним объясняет режим\n- Если игра запущена в лаунчере, а выбран режим «Эмулятор» (или наоборот), RallyBot это замечает и предлагает переключиться одной кнопкой\n**Улучшено**\n- Короткая подсказка для режима ПК-клиента, как для эмулятора\n**Исправлено**\n- Настройки: плитка «ПК-клиент» больше не упирается в край карточки\n\n"
 }
