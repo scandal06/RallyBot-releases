@@ -1,7 +1,7 @@
 {
- "version": "0.9.4",
- "tag": "v0.9.4",
- "url": "https://github.com/scandal06/RallyBot-releases/releases/download/v0.9.4/RallyBot.exe",
- "size": 67434646,
- "notes": "### Polish\n**New**\n- Unlimited rallies are a separate switch now\n- Wolfiez Mode = unlimited rallies + bags and rubies ×20 at once, without the ruby limit; the ? next to it explains it\n- If the game runs in the launcher but the Emulator mode is chosen (or the other way round), RallyBot notices it and offers to switch with one click\n**Improved**\n- A short hint for the PC client mode, like the one for the emulator\n**Fixed**\n- Settings: the PC client tile no longer touches the edge of its card\n\n### Доводка\n**Новое**\n- Безлимитные ралли теперь отдельный переключатель\n- Wolfiez Mode = безлимитные ралли + мешочки и рубины сразу по ×20, без лимита рубинов; кнопка ? рядом с ним объясняет режим\n- Если игра запущена в лаунчере, а выбран режим «Эмулятор» (или наоборот), RallyBot это замечает и предлагает переключиться одной кнопкой\n**Улучшено**\n- Короткая подсказка для режима ПК-клиента, как для эмулятора\n**Исправлено**\n- Настройки: плитка «ПК-клиент» больше не упирается в край карточки\n\n"
+ "version": "0.9.5",
+ "tag": "v0.9.5",
+ "url": "https://github.com/scandal06/RallyBot-releases/releases/download/v0.9.5/RallyBot.exe",
+ "size": 67441313,
+ "notes": "### Smoother settings\n**New**\n- Report a problem: describe what happened and the report goes straight to the developer\n**Fixed**\n- Switching unlimited rallies or Wolfiez Mode no longer makes the rally counter flicker\n\n### Плавные настройки\n**Новое**\n- Сообщить об ошибке: опишите, что случилось, и отчёт сразу уйдёт разработчику\n**Исправлено**\n- Переключение безлимитных ралли и Wolfiez Mode больше не заставляет счётчик ралли мигать\n\n"
 }
