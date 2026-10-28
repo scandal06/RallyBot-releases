@@ -1,7 +1,7 @@
 {
- "version": "0.9.6",
- "tag": "v0.9.6",
- "url": "https://github.com/scandal06/RallyBot-releases/releases/download/v0.9.6/RallyBot.exe",
- "size": 67525263,
- "notes": "### New logo\n**New**\n- A reminder to turn off the game's Auto Rally before the start: it sends squads by itself and confuses the bot\n- New RallyBot logo: a rally airship diving through a gun sight\n**Improved**\n- The running indicator moved onto the Run button and shows only while the bot works\n- The ×20 options have their own icons with a ×20 badge\n- While Wolfiez Mode is on, the energy choice (Stop / Bags / Bags, then rubies) is locked to it\n**Fixed**\n- Settings: no empty space under the energy choice when “Stop” is selected\n- Switching unlimited rallies or Wolfiez Mode no longer makes the rally counter flicker\n\n### Новый логотип\n**Новое**\n- Напоминание выключить «Авто ралли» в игре перед запуском: этот режим сам отправляет отряды и сбивает бота\n- Новый логотип RallyBot: дирижабль ралли пикирует через прицел\n**Улучшено**\n- Индикатор работы переехал на кнопку запуска и виден только пока бот работает\n- У опций ×20 свои значки с отметкой ×20\n- Пока включён Wolfiez Mode, выбор энергии («Остановиться» / «Мешочки» / «Мешочки, потом рубины») заблокирован\n**Исправлено**\n- Настройки: под выбором энергии больше нет пустого места при «Остановиться»\n- Переключение безлимитных ралли и Wolfiez Mode больше не заставляет счётчик ралли мигать\n\n"
+ "version": "0.9.7",
+ "tag": "v0.9.7",
+ "url": "https://github.com/scandal06/RallyBot-releases/releases/download/v0.9.7/RallyBot.exe",
+ "size": 67526063,
+ "notes": "### Searching squads\n**New**\n- “Find squads” shows that it's searching: the sight turns and a light runs over the squad cards\n- “Find squads” notices when the game runs the other way (launcher or emulator) and offers to switch\n**Fixed**\n- Settings stayed empty after switching the language while Wolfiez Mode was on\n\n### Поиск отрядов\n**Новое**\n- «Найти отряды» показывает поиск: прицел вращается, по карточкам отрядов бежит подсветка\n- «Найти отряды» замечает, что игра запущена не там (лаунчер или эмулятор), и предлагает переключиться\n**Исправлено**\n- Настройки оставались пустыми после смены языка при включённом Wolfiez Mode\n\n"
 }
