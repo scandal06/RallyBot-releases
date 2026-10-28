@@ -1,7 +1,7 @@
 {
- "version": "0.9.7",
- "tag": "v0.9.7",
- "url": "https://github.com/scandal06/RallyBot-releases/releases/download/v0.9.7/RallyBot.exe",
- "size": 67526063,
- "notes": "### Searching squads\n**New**\n- “Find squads” shows that it's searching: the sight turns and a light runs over the squad cards\n- “Find squads” notices when the game runs the other way (launcher or emulator) and offers to switch\n**Fixed**\n- Settings stayed empty after switching the language while Wolfiez Mode was on\n\n### Поиск отрядов\n**Новое**\n- «Найти отряды» показывает поиск: прицел вращается, по карточкам отрядов бежит подсветка\n- «Найти отряды» замечает, что игра запущена не там (лаунчер или эмулятор), и предлагает переключиться\n**Исправлено**\n- Настройки оставались пустыми после смены языка при включённом Wolfiez Mode\n\n"
+ "version": "0.9.8",
+ "tag": "v0.9.8",
+ "url": "https://github.com/scandal06/RallyBot-releases/releases/download/v0.9.8/RallyBot.exe",
+ "size": 67531731,
+ "notes": "### Free energy switch\n**New**\n- Free energy can be turned off in the settings: the bot then leaves all the Claim energy for you\n**Improved**\n- Smoother animations everywhere: a steady 60 frames a second on Windows, no jump at the start of a page, panel or switch, a lighter start button\n- Behind an open panel the page stays visible and dims smoothly instead of turning black at once\n- Coloured side menu: each page has its own colour\n\n### Переключатель бесплатной энергии\n**Новое**\n- Бесплатную энергию можно выключить в настройках: тогда бот не трогает ни одну кнопку Claim\n**Улучшено**\n- Плавнее все анимации: ровные 60 кадров в секунду на Windows, без рывка в начале смены страницы, окна или переключателя, лёгкая кнопка запуска\n- За открытым окном страница остаётся видна и плавно темнеет, а не становится сразу чёрной\n- Цветное боковое меню: у каждой страницы свой цвет\n\n"
 }
