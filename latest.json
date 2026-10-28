@@ -1,7 +1,7 @@
 {
- "version": "0.9.12",
- "tag": "v0.9.12",
- "url": "https://github.com/scandal06/RallyBot-releases/releases/download/v0.9.12/RallyBot.exe",
- "size": 67559715,
- "notes": "### In style\n**Improved**\n- Questions before spending rubies and before clearing the history open in RallyBot's own window instead of a plain Windows box\n**Fixed**\n- After using ×20 bags the March window stays open (the bot no longer taps the map to close an energy window the game already closed)\n- A full ring has no seam where its end meets its start\n\n### В едином стиле\n**Улучшено**\n- Вопросы перед тратой рубинов и перед очисткой истории открываются в окне RallyBot, а не в стандартном окне Windows\n**Исправлено**\n- После ×20 мешочков окно марша остаётся открытым (бот больше не тапает по карте, закрывая окно энергии, которое игра уже закрыла)\n- У заполненного кольца больше нет стыка там, где конец встречается с началом\n\n"
+ "version": "0.9.13",
+ "tag": "v0.9.13",
+ "url": "https://github.com/scandal06/RallyBot-releases/releases/download/v0.9.13/RallyBot.exe",
+ "size": 67562136,
+ "notes": "### Wolf in the history\n**New**\n- Wolfiez Mode runs get a wolf badge in the history; runs without a limit show just the number of rallies\n**Fixed**\n- No dark square behind the rounded corners of the settings and other windows\n\n### Волк в истории\n**Новое**\n- Запуски в Wolfiez Mode отмечены в истории значком волка; у запусков без лимита — просто число ралли\n**Исправлено**\n- Больше нет тёмного квадрата за скруглёнными углами окна настроек и других окон\n\n"
 }
