@@ -1,7 +1,7 @@
 {
- "version": "0.9.16-dev.38",
- "tag": "v0.9.16-dev.38",
- "setup": "https://github.com/scandal06/RallyBot-releases/releases/download/v0.9.16-dev.38/RallyBot-Setup.exe",
- "size": 58769380,
- "notes": "### Premium\n**New**\n- Plans: Free (2 squads, 8 rallies per run, 16 a day), Premium (everything) and Develop (Premium + test versions first)\n- Premium with a short key: a welcome on activation and a reminder before the key ends\n- History: filters, sorting and a tile you choose yourself\n- Suggest an idea right from the bot\n**Improved**\n- Wolfiez Mode is now called Beast Mode\n- New installer, faster start; updates install by themselves\n- An update waits until you stop the bot\n\n### Premium\n**Новое**\n- Тарифы: Free (2 отряда, 8 ралли за запуск, 16 в день), Premium (всё) и Develop (Premium + тестовые версии раньше всех)\n- Premium по короткому ключу: приветствие при активации и напоминание перед окончанием ключа\n- История: фильтры, сортировка и плитка, которую вы выбираете сами\n- Предложить идею прямо из бота\n**Улучшено**\n- Wolfiez Mode теперь называется Beast Mode\n- Новый установщик, бот быстрее запускается; обновления ставятся сами\n- Обновление ждёт, пока вы остановите бота\n\n"
+ "version": "0.9.17-dev.41",
+ "tag": "v0.9.17-dev.41",
+ "setup": "https://github.com/scandal06/RallyBot-releases/releases/download/v0.9.17-dev.41/RallyBot-Setup.exe",
+ "size": 58809844,
+ "notes": "### Seasonal Boomer\n**New**\n- Choose the target: Boomer or the seasonal Corrupted Boomer, each with its own squad levels\n- Calibration on every start: the bot checks the game first and says clearly what to fix\n**Improved**\n- A level above the highest one open in the game no longer confuses the bot\n\n### Сезонный Бумер\n**Новое**\n- Выбор цели: Бумер или сезонный Corrupted Boomer, у каждого свои уровни отрядов\n- Калибровка при каждом старте: бот сначала проверяет игру и понятно пишет, что исправить\n**Улучшено**\n- Уровень выше открытого в игре больше не сбивает бота\n\n"
 }
