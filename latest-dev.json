@@ -1,7 +1,7 @@
 {
- "version": "0.9.17-dev.55",
- "tag": "v0.9.17-dev.55",
- "setup": "https://github.com/scandal06/RallyBot-releases/releases/download/v0.9.17-dev.55/RallyBot-Setup.exe",
- "size": 59414683,
+ "version": "0.9.17-dev.57",
+ "tag": "v0.9.17-dev.57",
+ "setup": "https://github.com/scandal06/RallyBot-releases/releases/download/v0.9.17-dev.57/RallyBot-Setup.exe",
+ "size": 59411984,
  "notes": "### Seasonal Boomer\n**New**\n- New look: the Scanzy cat is Scanzy's icon and logo\n- Choose the target: Boomer or the seasonal Corrupted Boomer, each with its own squad levels\n- Calibration on every start: Scanzy checks the game first and says clearly what to fix\n**Improved**\n- A level above the highest one open in the game no longer confuses Scanzy\n\n### Сезонный Бумер\n**Новое**\n- Новый облик: кот Scanzy — иконка и логотип Scanzy\n- Выбор цели: Бумер или сезонный Corrupted Boomer, у каждого свои уровни отрядов\n- Калибровка при каждом старте: Scanzy сначала проверяет игру и понятно пишет, что исправить\n**Улучшено**\n- Уровень выше открытого в игре больше не сбивает Scanzy\n\n"
 }
