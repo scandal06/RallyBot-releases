@@ -1,7 +1,7 @@
 {
- "version": "0.9.17-dev.79",
- "tag": "v0.9.17-dev.79",
- "setup": "https://github.com/scandal06/RallyBot-releases/releases/download/v0.9.17-dev.79/RallyBot-Setup.exe",
- "size": 59472606,
+ "version": "0.9.17-dev.82",
+ "tag": "v0.9.17-dev.82",
+ "setup": "https://github.com/scandal06/RallyBot-releases/releases/download/v0.9.17-dev.82/RallyBot-Setup.exe",
+ "size": 59479736,
  "notes": "### Scanzy for Mac\n**New**\n- Scanzy for Mac (Apple silicon, M1 and newer), with a simple screen for the macOS permissions\n- Choose the target: Boomer or the seasonal Corrupted Boomer, each with its own squad levels\n- Calibration on every start: Scanzy checks the game first and says clearly what to fix\n- MAX next to a squad's level: always the highest level open in your game (each squad on its own)\n- Calibration checks which levels are open in the game: the seasonal Boomer opens level by level\n**Improved**\n- The emulator mode is resting while it's being improved; the PC client works as before\n**Fixed**\n- Free squads on a desert map no longer show as returning\n- Pressing start no longer counts as using the mouse (no pause after the first rally)\n- \"Bags by 20\" is found reliably instead of using one bag at a time\n- A level above the highest one open in the game no longer confuses Scanzy\n\n### Scanzy для Mac\n**Новое**\n- Scanzy для Mac (Apple silicon, M1 и новее) с простым экраном разрешений macOS\n- Выбор цели: Бумер или сезонный Corrupted Boomer, у каждого свои уровни отрядов\n- Калибровка при каждом старте: Scanzy сначала проверяет игру и понятно пишет, что исправить\n- MAX рядом с уровнем отряда: всегда самый высокий уровень, открытый в вашей игре (для каждого отряда отдельно)\n- Калибровка проверяет, какие уровни открыты в игре: сезонный Бумер открывается уровень за уровнем\n**Улучшено**\n- Режим эмулятора на доработке; ПК-клиент работает как раньше\n**Исправлено**\n- Свободные отряды на пустынной карте больше не показываются как «Возврат»\n- Нажатие «старт» больше не считается движением мыши (нет паузы после первого ралли)\n- «Мешочки по 20» находятся надёжно, а не по одному мешочку\n- Уровень выше открытого в игре больше не сбивает Scanzy\n\n"
 }
