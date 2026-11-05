@@ -1,7 +1,7 @@
 {
- "version": "0.9.18-dev.88",
- "tag": "v0.9.18-dev.88",
- "setup": "https://github.com/scandal06/RallyBot-releases/releases/download/v0.9.18-dev.88/RallyBot-Setup.exe",
- "size": 60441122,
- "notes": "### The game in 14 languages\n**New**\n- Scanzy works with the game in any of its 14 languages: it finds the language by itself at the start check\n- Game language in the settings: Auto, or choose it yourself\n**Improved**\n- Boomer, Corrupted Boomer and Rally are recognised by their picture; game buttons are found more surely\n**Fixed**\n- On a Mac the ×20 ruby purchase is found again\n\n### Игра на 14 языках\n**Новое**\n- Scanzy работает с игрой на любом из её 14 языков и сам определяет язык при проверке перед стартом\n- Язык игры в настройках: «Авто» или выбрать самому\n**Улучшено**\n- Бумер, сезонный Бумер и Rally узнаются по картинке; кнопки игры находятся увереннее\n**Исправлено**\n- На Mac снова находится покупка ×20 за рубины\n\n"
+ "version": "0.9.19-dev.91",
+ "tag": "v0.9.19-dev.91",
+ "setup": "https://github.com/scandal06/RallyBot-releases/releases/download/v0.9.19-dev.91/RallyBot-Setup.exe",
+ "size": 60451978,
+ "notes": "### Squads in the rally settings\n**New**\n- Squads and their levels right in the rally settings\n**Improved**\n- Rallies start faster: the first Rally tap is no longer lost while the camera moves\n- The Rubies tile shows the rubies spent, not the number of purchases\n**Fixed**\n- Corrupted Boomer: rallies go at the right level above 40\n- The ruby purchase question (\"Sure to spend 1000 Rubies?\") is confirmed instead of closed\n- Mac: the ∞ sign, the calibration ring and scrolling at the end of a page\n\n### Отряды в настройках ралли\n**Новое**\n- Отряды и их уровни прямо в настройках ралли\n**Улучшено**\n- Ралли отправляются быстрее: первое нажатие Rally больше не теряется, пока летит камера\n- Плитка «Рубины» показывает потраченные рубины, а не число покупок\n**Исправлено**\n- Сезонный Бумер: ралли уходят на правильный уровень выше 40\n- Вопрос о покупке за рубины («Sure to spend 1000 Rubies?») подтверждается, а не закрывается\n- Mac: знак ∞, кольцо калибровки и прокрутка в конце страницы\n\n"
 }
