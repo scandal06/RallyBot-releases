@@ -1,7 +1,7 @@
 {
- "version": "0.9.19-dev.91",
- "tag": "v0.9.19-dev.91",
- "setup": "https://github.com/scandal06/RallyBot-releases/releases/download/v0.9.19-dev.91/RallyBot-Setup.exe",
- "size": 60451978,
+ "version": "0.9.19-dev.92",
+ "tag": "v0.9.19-dev.92",
+ "setup": "https://github.com/scandal06/RallyBot-releases/releases/download/v0.9.19-dev.92/RallyBot-Setup.exe",
+ "size": 60499817,
  "notes": "### Squads in the rally settings\n**New**\n- Squads and their levels right in the rally settings\n**Improved**\n- Rallies start faster: the first Rally tap is no longer lost while the camera moves\n- The Rubies tile shows the rubies spent, not the number of purchases\n**Fixed**\n- Corrupted Boomer: rallies go at the right level above 40\n- The ruby purchase question (\"Sure to spend 1000 Rubies?\") is confirmed instead of closed\n- Mac: the ∞ sign, the calibration ring and scrolling at the end of a page\n\n### Отряды в настройках ралли\n**Новое**\n- Отряды и их уровни прямо в настройках ралли\n**Улучшено**\n- Ралли отправляются быстрее: первое нажатие Rally больше не теряется, пока летит камера\n- Плитка «Рубины» показывает потраченные рубины, а не число покупок\n**Исправлено**\n- Сезонный Бумер: ралли уходят на правильный уровень выше 40\n- Вопрос о покупке за рубины («Sure to spend 1000 Rubies?») подтверждается, а не закрывается\n- Mac: знак ∞, кольцо калибровки и прокрутка в конце страницы\n\n"
 }
